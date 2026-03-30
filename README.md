@@ -13,14 +13,55 @@
 </div>
 
 ---
-
 <details>
 <summary><h3>🛠️ Cool stuff I'm working on</h3></summary>
 <br>
 
-* 🎯 **Skyfall:** A 3D TPS boss fight/bullet hell, focusing heavily on **encounter design**, exploring **kinematic pattern design** to make enemy movements and attacks highly distinctive and challenging.
-* 🧠 **I Against Me:** A 3D FPS psychological horror, where I'm building emergent AI by **mimicking machine learning** to create adaptive, unpredictable behaviors that encourage player's meaningful decision.
+<div align="center">
 
+<table>
+  <tr>
+    <td width="300" align="center">
+      <img src="https://github.com/user-attachments/assets/34524c40-f0c1-4bf4-9b61-5b93cd9b2191" width="300">
+    </td>
+    <td width="550">
+
+# Skyfall 
+![Unreal Engine](https://img.shields.io/badge/Engine-UE5-231F20?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Encounter_Design-5C6E60?style=for-the-badge)
+<img src="https://img.shields.io/badge/Project_Type-Technical_R%26D-DCAEAA?style=for-the-badge">
+
+> *A 3D TPS boss fight/bullet hell, focusing heavily on **encounter design**, exploring **kinematic pattern design** to make enemy movements and attacks highly distinctive and challenging.*
+
+<br>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="300" align="center">
+      <img src="https://github.com/user-attachments/assets/f6a96340-b328-4e8c-a729-9cb38e39d121" width="300">
+    </td>
+    <td width="550">
+
+# I Against Me
+![Unreal Engine](https://img.shields.io/badge/Engine-UE5-231F20?style=for-the-badge&logo=unrealengine&logoColor=white)
+<img src="https://img.shields.io/badge/Focus-Game_Development-5C6E60?style=for-the-badge">
+<img src="https://img.shields.io/badge/Project_Type-Commercial_-DCAEAA?style=for-the-badge">
+
+> *A 3D FPS psychological horror, where I'm building emergent AI by **mimicking machine learning** to create adaptive, unpredictable behaviors that encourage player's meaningful decision.*
+
+<br>
+  </tr>
+</table>
+
+</div>
 </details>
 
 <details>
@@ -35,8 +76,6 @@
 <details>
 <summary><h3>🃏 Outside the Engine</h3></summary>
 <br>
-
-When I'm not staring at nodes or writing logic, I'm usually:
 
 * 📢 **Organize Events:** I helped organize the [Global Game Jam](https://globalgamejam.org/) in Vancouver since 2024, and I currently lead marketing for **[Quiver Games](https://quivergames.org/)** (hosting networking events, jams, conferences, and incubators for aspiring devs).
 * 🤝 **Support the Community:** I'm a [Women in Games Ambassador](https://www.womeningames.org/), and I spend time in the [ASGC games community](https://asgc.gg/) reviewing portfolios and LinkedIn profiles to help other designers stand out.
