@@ -22,30 +22,6 @@
 <table>
   <tr>
     <td width="300" align="center">
-      <img src="https://github.com/user-attachments/assets/34524c40-f0c1-4bf4-9b61-5b93cd9b2191" width="300">
-    </td>
-    <td width="550">
-
-# Skyfall 
-![Unreal Engine](https://img.shields.io/badge/Engine-UE5-231F20?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Encounter_Design-5C6E60?style=for-the-badge)
-<img src="https://img.shields.io/badge/Project_Type-Technical_R%26D-DCAEAA?style=for-the-badge">
-
-> *A 3D TPS boss fight/bullet hell, focusing heavily on **encounter design**, exploring **kinematic pattern design** to make enemy movements and attacks highly distinctive and challenging.*
-
-<br>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="300" align="center">
       <img src="https://github.com/user-attachments/assets/f6a96340-b328-4e8c-a729-9cb38e39d121" width="300">
     </td>
     <td width="550">
