@@ -33,6 +33,8 @@
 
 > *A 3D FPS psychological horror, where I'm building emergent AI by **mimicking machine learning** to create adaptive, unpredictable behaviors that encourage player's meaningful decision.*
 
+[![Wishlist on Steam](https://img.shields.io/badge/Steam-Wishlist_Now-black?style=for-the-badge&logo=steam)]([https://store.steampowered.com/app/YOUR_APP_ID](https://store.steampowered.com/app/3803600/I_Against_Me/))
+
 <br>
   </tr>
 </table>
@@ -53,7 +55,7 @@
 <summary><h3>🃏 Outside the Engine</h3></summary>
 <br>
 
-* 📢 **Organize Events:** I helped organize the [Global Game Jam](https://globalgamejam.org/) in Vancouver since 2024, and I currently lead marketing for **[Quiver Games](https://quivergames.org/)** (hosting networking events, jams, conferences, and incubators for aspiring devs).
+* 📢 **Organize Events:** I helped organize the [Global Game Jam](https://globalgamejam.org/) in Vancouver since 2024, and I helped marketing for **[Quiver Games](https://quivergames.org/)** (hosting networking events, jams, conferences, and incubators for aspiring devs).
 * 🤝 **Support the Community:** I'm a [Women in Games Ambassador](https://www.womeningames.org/), and I spend time in the [ASGC games community](https://asgc.gg/) reviewing portfolios and LinkedIn profiles to help other designers stand out.
 * 📸 **AFK:** Whenever I need fresh inspiration, I grab my camera and shoot moody, dark fantasy, and cottagecore fine art photography.
 
