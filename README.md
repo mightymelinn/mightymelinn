@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=50&pause=1000&color=29211F&background=FFFFFF00&center=true&vCenter=true&width=1000&height=60&lines=What's+up+Invader!+I'm+Melinn" alt="Typing SVG" /></a>
 
 ![Game Designer](https://img.shields.io/badge/Role-Game_Designer-8A2A2A?style=for-the-badge)
-![Base Camp](https://img.shields.io/badge/Base_Camp-Vancouver_➡️_Montreal-29211F?style=for-the-badge)
+![Base Camp](https://img.shields.io/badge/Base_Camp-Montreal-29211F?style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_Lover-29211F?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity_Veteran-5E7160?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Newbie-DCC3C3?style=for-the-badge&logo=godotengine&logoColor=29211F)
